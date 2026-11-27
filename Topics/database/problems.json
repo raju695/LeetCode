@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-27T09:41:58.164Z",
+  "updatedAt": "2026-11-27T09:42:04.939Z",
   "problems": [
+    {
+      "frontendId": "1148",
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "problemName": "1148-article-views-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/article-views-i/",
+      "folderPath": "1148-article-views-i/",
+      "readmePath": "1148-article-views-i/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1148-article-views-i.sql",
+          "path": "1148-article-views-i/1148-article-views-i.sql",
+          "sha": "f62f9bf80dde22668ea44d72ba55aff748bbbc27",
+          "lastSyncedAt": "2026-11-27T09:42:04.939Z"
+        }
+      ]
+    },
     {
       "frontendId": "1683",
       "title": "Invalid Tweets",
