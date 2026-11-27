@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search",
+    "tagId": "21"
+  },
+  "updatedAt": "2026-11-27T09:42:24.474Z",
+  "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0100-same-tree.java",
+          "path": "0100-same-tree/0100-same-tree.java",
+          "sha": "50f3dbf88925e947aacbb6414e6c7cac144e5552",
+          "lastSyncedAt": "2026-11-27T09:42:24.474Z"
+        }
+      ]
+    }
+  ]
+}
