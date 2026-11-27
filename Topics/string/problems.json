@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-27T09:42:41.197Z",
+  "updatedAt": "2026-11-27T09:43:11.312Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "f17a05de7c40fe9129547622f595d80a8a78d8ec",
+          "lastSyncedAt": "2026-11-27T09:43:11.312Z"
+        }
+      ]
+    },
     {
       "frontendId": "1021",
       "title": "Remove Outermost Parentheses",
