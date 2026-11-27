@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-27T09:44:46.468Z",
+  "updatedAt": "2026-11-27T09:44:58.030Z",
   "problems": [
     {
       "frontendId": "14",
@@ -224,6 +224,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "3eb35d2a73cb421cf08472c572e37bdfd6f583d6",
           "lastSyncedAt": "2026-11-27T09:44:38.639Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1807",
+      "title": "Evaluate the Bracket Pairs of a String",
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "problemName": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/",
+      "folderPath": "1807-evaluate-the-bracket-pairs-of-a-string/",
+      "readmePath": "1807-evaluate-the-bracket-pairs-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1807-evaluate-the-bracket-pairs-of-a-string.java",
+          "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.java",
+          "sha": "4983772e6c6067b70486f17410c6a5655fbbb73f",
+          "lastSyncedAt": "2026-11-27T09:44:58.030Z"
         }
       ]
     }
