@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-27T09:42:10.034Z",
+  "updatedAt": "2026-11-27T09:42:14.778Z",
   "problems": [
+    {
+      "frontendId": "584",
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "problemName": "0584-find-customer-referee",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+      "folderPath": "0584-find-customer-referee/",
+      "readmePath": "0584-find-customer-referee/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0584-find-customer-referee.sql",
+          "path": "0584-find-customer-referee/0584-find-customer-referee.sql",
+          "sha": "0945d262a0b2951500f41b8790ca15f295ea89e0",
+          "lastSyncedAt": "2026-11-27T09:42:14.778Z"
+        }
+      ]
+    },
     {
       "frontendId": "595",
       "title": "Big Countries",
